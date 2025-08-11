@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bollipalli rambabu
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently working as data science practitioner at accenture 
+- 🌱 I’m currently working as Full stack AI Engineer in Verizon 
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 reach out to me on 9440911894/rambabu.bollipalli040@gmail.com
 
